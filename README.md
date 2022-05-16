@@ -1,6 +1,6 @@
 ### Hi there, I'm Pranay - aka [Lucifer7535][website] 👋
 [![Website](https://img.shields.io/website?label=darkhackerx.unaux.com&style=for-the-badge&url=https://codestackr.com)](https://darkhackerx.unaux.com/?i=1)
-[![Twitter Follow](https://img.shields.io/twitter/follow/pranaypawar7535?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FPranay21734526&screen_name=Pranay21734526)
+[![Twitter Follow](https://img.shields.io/twitter/follow/pranaypawar7535?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fpranaypawar7535&screen_name=pranaypawar7535)
 
 ## I'm a IT Student and Youtuber!!
 
