@@ -31,5 +31,5 @@
 ## 📊 Stats
 <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=lucifer7535&theme=highcontrast" alt="lucifer7535" /></p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lucifer7535&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="lucifer7535" /></p>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=Lucifer7535&theme=highcontrast&show__icons=true" alt="lucifer7535" /></p>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<p><img src="https://github-readme-stats.vercel.app/api?username=Lucifer7535&theme=highcontrast&show__icons=true" alt="lucifer7535" /></p>
