@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/Lucifer7535/Lucifer7535/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?raw=true)
+![MasterHead](https://github.com/Lucifer7535/Lucifer7535/blob/main/240304586-d48893bd-0757-481c-8d7e-ba3e163feae7.png?raw=true)
 
 <div align="center">
     <h1>
